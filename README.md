@@ -2,9 +2,9 @@
 
 Proponowany tytuł: "Wykorzystanie narzędzi ML oraz web scrapingu w przetwarzaniu i analizie danych z rynku nieruchomości"
 
-Algorytmy uczenia maszynowego są wykorzystywane w wielu aplikacjach i badaniach. W wyniku technologii cyfrowej duże ustrukturyzowane i georeferencyjne zbiory danych są obecnie szerzej dostępne, co ułatwia wykorzystanie tych algorytmów do analizy i identyfikacji wzorców, a także do prognozowania, które pomagają użytkownikom w podejmowaniu decyzji. \
+Algorytmy uczenia maszynowego są wykorzystywane w wielu aplikacjach i badaniach. W wyniku technologii cyfrowej duże ustrukturyzowane i georeferencyjne zbiory danych są obecnie szerzej dostępne, co ułatwia wykorzystanie tych algorytmów do analizy i identyfikacji wzorców, a także do prognozowania, które pomagają użytkownikom w podejmowaniu decyzji. 
 
-Celem pracy jest stworzenie algorytmu do przeglądania stron internetowych i na tej podstawie wykorzystanie algorytmów uczenia maszynowego do przewidywania cen nieruchomości na przykładzie polskiego rynku nieruchomości. \
+Celem pracy jest stworzenie algorytmu do przeglądania stron internetowych oraz wykorzystanie narzędzi analizy danych w czasie rzeczywistym. Na tej podstawie przeprowadzona zostanie identyfikacja algorytmów uczenia maszynowego do przewidywania cen nieruchomości na przykładzie polskiego rynku nieruchomości. 
 
 
 **Plan pracy**
