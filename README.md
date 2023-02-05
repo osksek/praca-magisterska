@@ -1,6 +1,6 @@
 # Praca magisterska 
 
-Proponowany tytuł: "Wykorzystanie narzędzi ML oraz web scrapingu w przetwarzaniu i analizie danych z rynku nieruchomości"
+Proponowany tytuł: "Wykorzystanie narzędzi machine learning oraz web scrapingu w przetwarzaniu i analizie danych z rynku nieruchomości"
 
 Algorytmy uczenia maszynowego są wykorzystywane w wielu aplikacjach i badaniach. W wyniku technologii cyfrowej duże ustrukturyzowane i georeferencyjne zbiory danych są obecnie szerzej dostępne, co ułatwia wykorzystanie tych algorytmów do analizy i identyfikacji wzorców, a także do prognozowania, które pomagają użytkownikom w podejmowaniu decyzji. 
 
