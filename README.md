@@ -1,6 +1,6 @@
 # Praca magisterska 
 
-Plik z pracą = SĘKOWSKI_OSKAR_PRACA_20240121
+Plik z pracą = SĘKOWSKI_OSKAR_PRACA_20240121\
 Tytuł: "Wykorzystanie narzędzi machine learning oraz web scrapingu w przetwarzaniu i analizie danych z rynku nieruchomości"
 
 Streszczenie
