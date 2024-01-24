@@ -5,7 +5,8 @@ Tytuł: "Wykorzystanie narzędzi machine learning oraz web scrapingu w przetwarz
 
 Streszczenie
 
-W pracy przedstawiono metody web scrapingu oraz uczenia maszynowego, które mogą posłużyć do zbierania i analizy danych z rynku nieruchomości. Materiałem źródłowym był zbiór danych jako efekt narzędzia pobierającego informacje o ogłoszeniach mieszkań z serwisu nieruchomościowego. Zbudowana baza danych liczyła 42 422 rekordy oraz 14 kolumn (cech). Zbiór ten został poddany eksploracyjnej analizie danych, gdzie m.in. usunięto obserwacje odstające i dokonano analizy statystycznej zmiennych. W oparciu o tak przygotowaną bazę dane posłużyły do budowy modeli machine learning tj. regresje liniowa, wielomianowa, wieloraka, ze zmiennymi kategorialnymi, logistyczna, drzewa decyzyjne, lasy losowe oraz k-NN. \
+W pracy przedstawiono metody web scrapingu oraz uczenia maszynowego, które mogą posłużyć do zbierania i analizy danych z rynku nieruchomości. Materiałem źródłowym był zbiór danych jako efekt narzędzia pobierającego informacje o ogłoszeniach mieszkań z serwisu nieruchomościowego. Zbudowana baza danych liczyła 42 422 rekordy oraz 14 kolumn (cech). Zbiór ten został poddany eksploracyjnej analizie danych, gdzie m.in. usunięto obserwacje odstające i dokonano analizy statystycznej zmiennych. W oparciu o tak przygotowaną bazę dane posłużyły do budowy modeli machine learning tj. regresje liniowa, wielomianowa, wieloraka, ze zmiennymi kategorialnymi, logistyczna, drzewa decyzyjne, lasy losowe oraz k-NN.\
+
 Wyniki wskazują, że najlepszym modelem do predykcji cen mieszkań na podstawie zmiennych numerycznych (liczba pokoi, piętro, powierzchnia, cena za metr kwadratowy, odległość od centrum) był algorytm lasów losowych. W przypadku zagadnień klasyfikacyjnych nieznacznie lepsze wyniki predykcyjne uzyskały drzewa decyzyjne. 
 
 
@@ -34,6 +35,5 @@ Wyniki wskazują, że najlepszym modelem do predykcji cen mieszkań na podstawie
 **Spis rycin** \
 **Spis tabel** \
 **Załączniki** \
-**Streszczenie** \
-
+**Streszczenie** 
 
