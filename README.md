@@ -14,7 +14,7 @@ Wyniki wskazują, że najlepszym modelem do predykcji cen mieszkań na podstawie
 **1. Wprowadzenie** \
   &emsp;1.1	Rynek nieruchomości w kontekście Big Data	\
   &emsp;1.2	Web Scraping i uczenie maszynowe \
-**2. Przegląd literatury** \	
+**2. Przegląd literatury** \
 **3. Materiały i metody badań** \
   &emsp;3.1. Proces gromadzenia danych – web scraping	\
   &emsp;3.2. Opis wykorzystanych modeli	\
